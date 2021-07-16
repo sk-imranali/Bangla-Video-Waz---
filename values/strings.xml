@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bangla Waz</string>
+    <string name="admob_APP_ID">ca-app-pub-7297751488937323~3545504241</string>
+    <string name="admob_BANNER_UNIT_ID">ca-app-pub-7297751488937323/9873101267</string>
+    <string name="admob_INTERSTITIAL_UNIT_ID">ca-app-pub-7297751488937323/3307692914</string>
+
+</resources>
